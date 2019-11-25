@@ -18,4 +18,9 @@ This app aims to propose a system with Machine Learning to detect a particular f
 
 List of flowers app can recognise ( https://www.robots.ox.ac.uk/~vgg/data/flowers/102/categories.html )
 
+**Dependencies:**
+
+Download the FlowerClassifier.mlmodel file and put it inside the WhatFlower Folder.
+( https://drive.google.com/file/d/15D5bdv1AEMnN4iKNK7SXN4F_yVJovPep/view?usp=sharing )
+
 ## Screenshots
