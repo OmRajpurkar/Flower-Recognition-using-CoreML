@@ -27,4 +27,4 @@ Download the FlowerClassifier.mlmodel file and put it inside the WhatFlower Fold
 ## Screenshots
 
 **Start Page**
-![alt text]()
+![alt text](https://github.com/OmRajpurkar/Flower-Recognition-using-CoreML/blob/master/Screenshots/1.PNG)
