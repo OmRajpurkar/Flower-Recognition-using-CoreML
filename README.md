@@ -12,5 +12,8 @@ This app aims to propose a system with Machine Learning to detect a particular f
 - Timeline for unknown flower images that can be further used for scientific research.
 - Providing offline information about flowers, categorised based on region.
 
+**Dataset:**
+102 Category Flower Dataset ( https://www.robots.ox.ac.uk/~vgg/data/flowers/102/ )
+List of flowers app can recognise ( https://www.robots.ox.ac.uk/~vgg/data/flowers/102/categories.html )
 
-
+## Screenshots
