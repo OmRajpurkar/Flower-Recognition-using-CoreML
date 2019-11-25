@@ -47,3 +47,15 @@ Download the FlowerClassifier.mlmodel file and put it inside the WhatFlower Fold
  <img src="https://github.com/OmRajpurkar/Flower-Recognition-using-CoreML/blob/master/Screenshots/5.PNG" alt="alt text" width="200" height="450">
  <img src="https://github.com/OmRajpurkar/Flower-Recognition-using-CoreML/blob/master/Screenshots/6.PNG" alt="alt text" width="200" height="450">
 </p>
+
+**Add to Timeline**
+
+<img src="https://github.com/OmRajpurkar/Flower-Recognition-using-CoreML/blob/master/Screenshots/7.PNG" alt="alt text" width="200" height="450">
+
+**Flowers Categorised According to 4 Regions**
+
+<p float="left">
+ <img src="https://github.com/OmRajpurkar/Flower-Recognition-using-CoreML/blob/master/Screenshots/8.PNG" alt="alt text" width="200" height="450">
+ <img src="https://github.com/OmRajpurkar/Flower-Recognition-using-CoreML/blob/master/Screenshots/9.PNG" alt="alt text" width="200" height="450">
+ <img src="https://github.com/OmRajpurkar/Flower-Recognition-using-CoreML/blob/master/Screenshots/10.PNG" alt="alt text" width="200" height="450">
+</p>
