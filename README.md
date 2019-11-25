@@ -37,6 +37,13 @@ Download the FlowerClassifier.mlmodel file and put it inside the WhatFlower Fold
 **Take Photo & Use Photo**
 
 <p float="left">
-<img src="https://github.com/OmRajpurkar/Flower-Recognition-using-CoreML/blob/master/Screenshots/3.PNG" alt="alt text" width="200" height="450">
-<img src="https://github.com/OmRajpurkar/Flower-Recognition-using-CoreML/blob/master/Screenshots/4.PNG" alt="alt text" width="200" height="450">
- </p>
+ <img src="https://github.com/OmRajpurkar/Flower-Recognition-using-CoreML/blob/master/Screenshots/3.PNG" alt="alt text" width="200" height="450">
+ <img src="https://github.com/OmRajpurkar/Flower-Recognition-using-CoreML/blob/master/Screenshots/4.PNG" alt="alt text" width="200" height="450">
+</p>
+
+**Flower Information**
+
+<p float="left">
+ <img src="https://github.com/OmRajpurkar/Flower-Recognition-using-CoreML/blob/master/Screenshots/5.PNG" alt="alt text" width="200" height="450">
+ <img src="https://github.com/OmRajpurkar/Flower-Recognition-using-CoreML/blob/master/Screenshots/6.PNG" alt="alt text" width="200" height="450">
+</p>
